@@ -3,7 +3,7 @@
 |                 |                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------- |
 | **Start Date**  | 23 Nov 2023                                                                                |
-| **Description** | A Common-good or System Playbook for the Polkadot Ecosystem to align Paachain teams holistically while increasing efficiency through decentralised coorindation|
+| **Description** | A Common-good or System Playbook for the Polkadot Ecosystem to align Paachain teams holistically while increasing operational efficiency through decentralised coordination|
 | **Authors**     | Dennis Schießl                                                                                  |
 
 
