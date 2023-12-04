@@ -9,6 +9,7 @@
 
 ## Summary
 The first draft of this common-good playbook presents a framework and plenty of tools to boost efficiency and proposes a detailed blueprint for the most effective ways to use them within teams as well as for individual contributors.  
+This is a test
 
 ## Motivation
  The Polkadot Work Graph - or PWG aims to streamline and unify the experience of teams working in the ecosystem, or coming to the ecosystem.
