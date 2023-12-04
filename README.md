@@ -1,5 +1,5 @@
 # Proposal: A Polkadot Work Graph - An Operating Model for a Decentralised Ecosystem
-
+|                 |                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------- |
 | **Start Date**  | 23 Nov 2023                                                                                |
 | **Description** | A Common-good or System Operational Efficiency Playbook for the Polkadot Ecosystem to align _Decentralised_ Parachain teams holistically by eliminting most common pain points and optimising foundational operational areas which drive real results |
